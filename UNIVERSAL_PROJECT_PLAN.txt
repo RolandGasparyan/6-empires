@@ -1,0 +1,10 @@
+Document Type: Universal Project Development Plan
+Use Case: Software, web apps, mobile apps, APIs, libraries, data projects, AI/ML projects, DevOps/IaC projects, hardware-adjacent projects, business systems, and general delivery projects
+Recommended File Name: UNIVERSAL_PROJECT_PLAN.txt
+Version: 1.0
+Status: Template
+Owner: [Project Owner]
+Project Name: [Project Name]
+Repository / Workspace: [Repository URL or Location]
+Prepared By: [Name]
+Last Updated: [Date]
